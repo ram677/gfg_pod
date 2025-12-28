@@ -9,7 +9,7 @@ All problems are practiced from **GeeksforGeeks** and solved with clean, readabl
 
 ## 📂 Repository Structure
 
-GeeksforGeeks-Practice  
+GFG_POD  
 │  
 ├── Problem_of_the_Day   
 │  
